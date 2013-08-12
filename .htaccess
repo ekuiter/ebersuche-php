@@ -1,0 +1,3 @@
+allow from all
+require none
+satisfy any
